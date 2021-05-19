@@ -3,3 +3,7 @@ First Message
 New message in local head, while lisa working on another branch
 New message in head, while lisa working on another branch
 Lisa's message
+
+switch test
+
+stash test
